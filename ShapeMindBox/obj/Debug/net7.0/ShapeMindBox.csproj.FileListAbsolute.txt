@@ -1,0 +1,11 @@
+F:\Repositories\ShapeMindBox\ShapeMindBox\bin\Debug\net7.0\ShapeMindBox.deps.json
+F:\Repositories\ShapeMindBox\ShapeMindBox\bin\Debug\net7.0\ShapeMindBox.dll
+F:\Repositories\ShapeMindBox\ShapeMindBox\bin\Debug\net7.0\ShapeMindBox.pdb
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.AssemblyInfoInputs.cache
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.AssemblyInfo.cs
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.csproj.CoreCompileInputs.cache
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.dll
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\refint\ShapeMindBox.dll
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ShapeMindBox.pdb
+F:\Repositories\ShapeMindBox\ShapeMindBox\obj\Debug\net7.0\ref\ShapeMindBox.dll
